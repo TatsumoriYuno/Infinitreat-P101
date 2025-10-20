@@ -20,9 +20,11 @@ Preparation steps:
 
 2: Head to an unpopulated area/realm. This is important for both lag and not looking weird to others.
 
-3: Hit NumpadAdd(the「+」sign on your numpad).
+3: Set the pet you wihs to raise into the top-left slot of the first page.
 
-4: Profit.
+4: Hit NumpadAdd(the「+」sign on your numpad).
+
+5: Profit.
 
 To stop the program, close the GUI or hold down backslash for ten seconds.
 
