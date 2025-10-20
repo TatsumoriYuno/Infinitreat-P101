@@ -20,7 +20,7 @@ Preparation steps:
 
 2: Head to an unpopulated area/realm. This is important for both lag and not looking weird to others.
 
-3: Hit NumpadAdd (the「+」sign on your numpad).
+3: Hit NumpadAdd(the「+」sign on your numpad).
 
 4: Profit.
 
