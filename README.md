@@ -1,6 +1,6 @@
-Dependencies for the cheat table: Cheat engine.
-
 Dependencies for the autofeeder script: Autohotkey v2.
+
+This script's timing is balanced around cheat engine's speedhack being active above normal speed, but it should still function even without it.
 
 ## Infinitreat instructions:
 
