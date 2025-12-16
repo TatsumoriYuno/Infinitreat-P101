@@ -1,14 +1,12 @@
 Storage of current pirate101 scripts.
 
-Dependencies for the cheat table: Cheat Engine.
+Dependencies for the cheat table: Cheat engine.
 
-Dependencies for the add-on scripts: Autohotkey v2.
+Dependencies for the add-on scripts: Autohotkey v2 and the cheat table.
 
+## Infinitreat instructions:
 
-
-Infinitreat instructions:
-
-Game setup requirements:
+### Game setup requirements:
 
 ー UI Scaling: 110%
 
@@ -20,7 +18,7 @@ Game setup requirements:
 
 ー Bloom & Shadows: Disabled
 
-Preparation steps:
+### Preparation steps:
 
 0: Download and install autohotkey.
 
