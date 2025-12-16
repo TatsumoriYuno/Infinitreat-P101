@@ -24,15 +24,17 @@ Dependencies for the autofeeder script: Autohotkey v2.
 
 1: Open Pirate101 if it isn't open already and head to an unpopulated area/realm. Changing realms is important for consistency if your connection is unreliable.
 
-2: Head to whatever location you wish to do the glitch from. This shouldn't matter if your PC is anywhere close to decent, but lag does occasionally fuck up the program.
+2: Head to whatever location you wish to do the glitch from. This shouldn't matter if your PC is anywhere close to decent, but lag doess have an influence on the glitch's success rate, so moving to a smaller, effectless room might help.
 
 3: Set the pet you wish to raise into the top-left slot of the first page.
 
 4: Run the script by double-clicking it and tab back to pirate.
 
-5: Hit NumpadAdd(the「+」sign on your numpad).
+5: Hit NumpadAdd(the「+」sign on your numpad) to start the feed cycle.
 
 6: Profit.
+
+The script will automatically pause itself every ten levels or when a feed fails, to prevent overlevelling failed pets or wasting crowns on speeding up pet activities(since the "spend crowns to finish activity" button is in the same spot as the "feed now" button).
 
 To stop the program, close the GUI or hold down backslash for ten seconds.
 
