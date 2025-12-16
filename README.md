@@ -1,5 +1,3 @@
-Storage of current pirate101 scripts.
-
 Dependencies for the cheat table: Cheat engine.
 
 Dependencies for the autofeeder script: Autohotkey v2.
