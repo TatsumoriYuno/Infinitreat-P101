@@ -1,4 +1,12 @@
-Dependencies: Autohotkey v2.
+Storage of current pirate101 scripts.
+
+Dependencies for the cheat table: Cheat Engine.
+
+Dependencies for the add-on scripts: Autohotkey v2.
+
+
+
+Infinitreat instructions:
 
 Game setup requirements:
 
