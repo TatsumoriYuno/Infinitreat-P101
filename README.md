@@ -24,7 +24,7 @@ Dependencies for the autofeeder script: Autohotkey v2.
 
 1: Open Pirate101 if it isn't open already and head to an unpopulated area/realm. Changing realms is important for consistency if your connection is unreliable.
 
-2. Head to whatever location you wish to do the glitch from. This shouldn't matter if your PC is anywhere close to decent, but lag does occasionally fuck up the program.
+2: Head to whatever location you wish to do the glitch from. This shouldn't matter if your PC is anywhere close to decent, but lag does occasionally fuck up the program.
 
 3: Set the pet you wish to raise into the top-left slot of the first page.
 
