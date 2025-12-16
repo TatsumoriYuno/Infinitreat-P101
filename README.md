@@ -18,7 +18,7 @@ Dependencies for the add-on script: Autohotkey v2 and the cheat table.
 
 ー Bloom & Shadows: Disabled
 
-### Preparation steps:
+### Usage:
 
 0: Download and install autohotkey.
 
