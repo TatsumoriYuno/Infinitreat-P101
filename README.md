@@ -38,4 +38,4 @@ The script will automatically pause itself every ten levels or when a feed fails
 
 To stop the program, close the GUI or hold down backslash for ten seconds.
 
-The images within the zip may need to be replaced with your own screenshots.
+The images within the zip used for determining where the buttons are may need to be replaced with your own screenshots.
