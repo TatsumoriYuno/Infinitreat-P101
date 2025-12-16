@@ -2,7 +2,7 @@ Storage of current pirate101 scripts.
 
 Dependencies for the cheat table: Cheat engine.
 
-Dependencies for the add-on scripts: Autohotkey v2 and the cheat table.
+Dependencies for the add-on script: Autohotkey v2 and the cheat table.
 
 ## Infinitreat instructions:
 
