@@ -22,7 +22,7 @@ This script's timing is balanced around cheat engine's speedhack being active ab
 
 1: Open Pirate101 if it isn't open already and head to an unpopulated area/realm. Changing realms is important for consistency if your connection is unreliable.
 
-2: Head to whatever location you wish to do the glitch from. This shouldn't matter if your PC is anywhere close to decent, but lag doess have an influence on the glitch's success rate, so moving to a smaller, effectless room might help.
+2: Head to whatever location you wish to do the glitch from. This shouldn't matter if your PC is anywhere close to decent, but lag does have an influence on the glitch's success rate, so moving to a smaller, effectless room might help.
 
 3: Set the pet you wish to raise into the top-left slot of the first page.
 
